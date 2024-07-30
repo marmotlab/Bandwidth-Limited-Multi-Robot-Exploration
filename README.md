@@ -1,6 +1,6 @@
 # Bandwidth-limited Multi-Robot Exploration
 
-Public code of <a href=".......">Privileged Reinforcement and Communication Learning for Distributed, Bandwidth-limited Multi-Robot Exploration</a>, which is accepted by DARS 2024.
+Public code of <a href="https://arxiv.org/abs/2407.20203">Privileged Reinforcement and Communication Learning for Distributed, Bandwidth-limited Multi-Robot Exploration</a>, which is accepted by DARS 2024.
 </br>
 This framework is extended form <a href="https://github.com/marmotlab/ARiADNE">ARiADNE</a>
 
